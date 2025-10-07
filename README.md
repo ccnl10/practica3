@@ -1,3 +1,3 @@
 # practica3
 Cristian Navarro
-Añado mi nombre "Valentín"
+Añado mi nombre: alumno "Valentín"
