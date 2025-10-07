@@ -1,3 +1,3 @@
 # practica3
+## Clase de GitHub
 Cristian Navarro
-Añado mi nombre: alumno "Valentín"
